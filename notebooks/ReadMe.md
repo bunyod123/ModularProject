@@ -1,1 +1,1 @@
-# 
+# Bu joyda asosan code lar turadi asosan visualization va preprocessing uchun
